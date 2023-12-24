@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=python,java,c,c++,sqlite,mysql,github,vscode,docker,discord" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=python,java,c,c+,sqlite,mysql,github,vscode,docker,discord" /> <br /><br />
 
   ※Another skill and tools
   Codeigniter, Virtual Box, CakePHP, CircleCI and so on.
