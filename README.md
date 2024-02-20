@@ -29,8 +29,6 @@ Here are some ideas to get you started:
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 
-# NOW TRAINING
-
 <p align="left">
 <a href="kocr001tech@icloud.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kocr001tech@icloud.com"/></a>
 </p>
