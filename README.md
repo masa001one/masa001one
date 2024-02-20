@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Backend Developer in Japan👋
+# Computer Science Student in Japan👋
 ### Just 23 years old 
 ### Feel free to contact me anytime!👍
 #
