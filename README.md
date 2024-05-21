@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 # Computer Science Student in Japan👋
-### Just 23 years old 
+### Just 24 years old 
 ### Feel free to contact me anytime!👍
 #
 <p align="left"> 
